@@ -27,4 +27,4 @@ jobs:
         run: |
           pytest teste.py
           pytest teste_integracao.py
-          pytest teste_e2e.py
+          pytest teste_endtoend.py
